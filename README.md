@@ -30,13 +30,6 @@
 * MySQL / phpMyAdmin
 * Figma
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=najlaput16&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najlaput16&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
