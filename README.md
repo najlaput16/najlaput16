@@ -17,7 +17,7 @@
 
 *Languages & Frameworks:*
 
-* PHP (CodeIgniter 4)
+* PHP 
 * Laravel
 * JavaScript
 * HTML, CSS
