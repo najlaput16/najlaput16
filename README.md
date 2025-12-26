@@ -9,6 +9,8 @@
 
 ### ✨ Welcome to my GitHub Profile ✨
 
+<img src="https://komarev.com/ghpvc/?username=najlaput16&label=Profile%20views&color=0e75b6&style=flat" alt="najlaput16" />
+
 ---
 
 ## 🚀 About Me
